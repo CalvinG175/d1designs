@@ -1756,8 +1756,8 @@ body {
   }
 }
 .cid-qELfV6H6Qj {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #f9f9f9;
 }
 .cid-qELfV6H6Qj a {
@@ -1792,4 +1792,7 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-qELfV6H6Qj P {
+  text-align: center;
 }
