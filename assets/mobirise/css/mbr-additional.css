@@ -1722,7 +1722,7 @@ body {
 }
 .cid-qELtkcU0D8 {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qELtkcU0D8 .subicon-title {
@@ -1834,6 +1834,21 @@ body {
 .cid-qELtkcU0D8 .mbr-section-subtitle {
   color: #232323;
   text-align: center;
+}
+.cid-qELzPIjfxW {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/desk-office-computer-imac-1920x1280.jpg");
+}
+.cid-qELzPIjfxW .mbr-section-subtitle {
+  color: #ffffff;
+  font-size: 1.6em;
+}
+.cid-qELzPIjfxW .btn {
+  margin: 0 0 2rem 0;
+}
+.cid-qELzPIjfxW .content-row {
+  flex-direction: row-reverse;
 }
 .cid-qELfV6H6Qj {
   padding-top: 30px;
