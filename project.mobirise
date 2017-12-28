@@ -39,7 +39,12 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 35,
-    "versionPublish": "4.5.2"
+    "versionPublish": "4.5.2",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/donedesignsfinal2webicon-128x129.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
