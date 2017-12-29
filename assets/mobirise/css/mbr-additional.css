@@ -909,6 +909,14 @@ body {
     opacity: 1;
   }
 }
+.cid-qF4zp4Wx7I .btn-white-outline:hover {
+  border-color: #78C3EC;
+  color: #ffffff;
+}
+.cid-qF4zp4Wx7I .btn-white:hover {
+  background-color: #78C3EC;
+  border-color: #78C3EC;
+}
 .cid-qF4KTMzfgT {
   padding-top: 60px;
   padding-bottom: 45px;
@@ -979,6 +987,10 @@ body {
 }
 .cid-qELzPIjfxW .content-row {
   flex-direction: row-reverse;
+}
+.cid-qELzPIjfxW .btn-white-outline:hover {
+  background-color: #ffffff;
+  color: #000000;
 }
 .cid-qELFz28yzG {
   padding-top: 0px;
