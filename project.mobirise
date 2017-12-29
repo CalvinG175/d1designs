@@ -1566,7 +1566,7 @@
               ".line": {
                 "width": "5rem",
                 "height": "3px",
-                "background": "linear-gradient(to right, @primaryColor 50%, @secondaryColor 120%)",
+                "background": "BLACK",
                 "display": "inline-block"
               }
             },
@@ -1669,7 +1669,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     }
