@@ -1285,6 +1285,9 @@
             },
             "P": {
               "text-align": "center"
+            },
+            "H5": {
+              "color": "#78c3ec"
             }
           },
           "_name": "features12",
