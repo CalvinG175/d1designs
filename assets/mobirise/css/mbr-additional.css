@@ -1186,7 +1186,7 @@ body {
   }
 }
 .cid-qFf2is57qY {
-  padding-top: 15px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/desk-931928-1920-1920x1277.jpg");
 }
@@ -1869,7 +1869,7 @@ body {
   color: #78c3ec;
 }
 .cid-qELFX3K9fe {
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/pexels-photo-303383-1920x1281.jpg");
 }
@@ -1931,8 +1931,15 @@ body {
     font-size: 4.25rem;
   }
 }
+.cid-qELFX3K9fe .block-title B {
+  color: #ffffff;
+}
+.cid-qELFX3K9fe .block-title {
+  color: #ffffff;
+  margin-bottom: 40px;
+}
 .cid-qF4sMHFOLJ {
-  padding-top: 90px;
+  padding-top: 75px;
   padding-bottom: 90px;
   background-color: #fbfbfb;
 }
