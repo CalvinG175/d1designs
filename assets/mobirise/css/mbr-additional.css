@@ -1826,6 +1826,10 @@ body {
 .cid-qEEznZDY8f .dropdown-item:hover {
   color: #78c3ec;
 }
+.cid-qEEznZDY8f .btn:hover {
+  background-color: #636464;
+  border-color: #636464;
+}
 .cid-qELfV6H6Qj {
   padding-top: 30px;
   padding-bottom: 30px;

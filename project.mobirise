@@ -1229,6 +1229,10 @@
             },
             ".nav-link:hover, .dropdown-item:hover": {
               "color": "@itemsHoverColor"
+            },
+            ".btn:hover": {
+              "background-color": "#636464",
+              "border-color": "#636464"
             }
           },
           "_name": "menu3",
