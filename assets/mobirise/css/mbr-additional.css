@@ -1152,8 +1152,9 @@ body {
 }
 .cid-qFeRjD9HO1 .card-days {
   background: #78c3ec;
-  height: 100%;
+  height: 500px;
   border-radius: 5px;
+  box-shadow: 0 20px 40px 0px rgba(0, 0, 0, 0.5);
 }
 .cid-qFeRjD9HO1 .card-days .schedule {
   display: block;
