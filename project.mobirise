@@ -858,7 +858,8 @@
                 "font-size": "1.2em"
               },
               "display": "inline-flex",
-              "align-items": "center"
+              "align-items": "center",
+              "box-shadow": "0 20px 40px 0px rgba(0, 0, 0, 0.5)"
             },
             ".navbar-toggleable-sm .navbar-collapse": {
               "justify-content": "flex-end",
