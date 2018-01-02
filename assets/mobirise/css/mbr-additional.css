@@ -121,7 +121,7 @@ body {
   background-color: #78c3ec !important;
 }
 .bg-success {
-  background-color: #9473d2 !important;
+  background-color: #232323 !important;
 }
 .bg-info {
   background-color: #7237a2 !important;
@@ -158,25 +158,25 @@ body {
 .btn-secondary,
 .btn-secondary:active,
 .btn-secondary.active {
-  background-color: #f27d7a;
-  border-color: #f27d7a;
-  color: #ffffff;
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: #808080;
 }
 .btn-secondary:hover,
 .btn-secondary:focus,
 .btn-secondary.focus {
-  color: #ffffff;
-  background-color: #f27d7a;
-  border-color: #f27d7a;
+  color: #808080;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 .btn-secondary:before {
-  background-color: #eb3934;
+  background-color: #d9d9d9;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
-  color: #ffffff !important;
-  background-color: #eb3934 !important;
-  border-color: #eb3934 !important;
+  color: #808080 !important;
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
 }
 .btn-info,
 .btn-info:active,
@@ -204,25 +204,25 @@ body {
 .btn-success,
 .btn-success:active,
 .btn-success.active {
-  background-color: #9473d2;
-  border-color: #9473d2;
+  background-color: #232323;
+  border-color: #232323;
   color: #ffffff;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus {
   color: #ffffff;
-  background-color: #9473d2;
-  border-color: #9473d2;
+  background-color: #232323;
+  border-color: #232323;
 }
 .btn-success:before {
-  background-color: #693cbc;
+  background-color: #000000;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #693cbc !important;
-  border-color: #693cbc !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
 }
 .btn-warning,
 .btn-warning:active,
@@ -345,23 +345,23 @@ body {
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   background: none;
-  border-color: #e9221d;
-  color: #e9221d;
+  border-color: #ffffff;
+  color: #ffffff;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus {
-  color: #ffffff;
-  border-color: #f27d7a;
+  color: #808080;
+  border-color: #ffffff;
 }
 .btn-secondary-outline:before {
-  background-color: #f27d7a;
+  background-color: #ffffff;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #f27d7a !important;
-  border-color: #f27d7a !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-info-outline,
 .btn-info-outline:active,
@@ -389,23 +389,23 @@ body {
 .btn-success-outline:active,
 .btn-success-outline.active {
   background: none;
-  border-color: #5e36a9;
-  color: #5e36a9;
+  border-color: #000000;
+  color: #000000;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus {
   color: #ffffff;
-  border-color: #9473d2;
+  border-color: #232323;
 }
 .btn-success-outline:before {
-  background-color: #9473d2;
+  background-color: #232323;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #9473d2 !important;
-  border-color: #9473d2 !important;
+  background-color: #232323 !important;
+  border-color: #232323 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active,
@@ -536,10 +536,10 @@ body {
   color: #78c3ec !important;
 }
 .text-secondary {
-  color: #f27d7a !important;
+  color: #ffffff !important;
 }
 .text-success {
-  color: #9473d2 !important;
+  color: #232323 !important;
 }
 .text-info {
   color: #7237a2 !important;
@@ -562,11 +562,11 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #e9221d !important;
+  color: #cccccc !important;
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #5e36a9 !important;
+  color: #000000 !important;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -624,7 +624,7 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #d5d5d5;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -1156,7 +1156,7 @@ body {
   background: #78c3ec;
   height: 500px;
   border-radius: 5px;
-  box-shadow: 0 20px 40px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 20px 50px 0px rgba(0, 0, 0, 0.5);
 }
 .cid-qFeRjD9HO1 .card-days .schedule {
   display: block;
@@ -1466,7 +1466,7 @@ body {
   padding: 0.4rem 1.5rem;
   display: inline-flex;
   align-items: center;
-  box-shadow: 0 20px 40px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.5);
 }
 .cid-qEEznZDY8f .btn .mbr-iconfont {
   font-size: 1.2em;
@@ -2024,6 +2024,9 @@ body {
     width: 100% !important;
     margin-left: 0 !important;
   }
+}
+.cid-qF4sMHFOLJ .body-item {
+  color: #000000;
 }
 .cid-qFl1T6Y0kW {
   padding-top: 90px;
