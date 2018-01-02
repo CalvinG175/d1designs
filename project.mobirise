@@ -1410,7 +1410,9 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "font-size": "1.3rem",
+              "color": "#767676",
+              "text-align": "center"
             },
             ".container-table": {
               "margin": "0 auto"
@@ -1495,7 +1497,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
