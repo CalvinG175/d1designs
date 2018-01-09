@@ -1908,7 +1908,7 @@ body {
 .cid-qELFX3K9fe .plan {
   background: none;
   position: relative;
-  max-width: 300px;
+  max-width: 500px;
   padding-right: 0;
   padding-left: 0;
 }
@@ -1926,8 +1926,8 @@ body {
 .cid-qELFX3K9fe .plan .list-group-item::after {
   position: absolute;
   bottom: 0;
-  left: 20%;
-  width: 60%;
+  left: 10%;
+  width: 80%;
   height: 2px;
   content: "";
   background-color: #eaeaea;
@@ -1969,6 +1969,9 @@ body {
     padding-left: 70px;
     padding-bottom: 20px;
   }
+}
+.cid-qELFX3K9fe UL {
+  text-align: left;
 }
 .cid-qF4sMHFOLJ {
   padding-top: 75px;
@@ -2284,32 +2287,32 @@ body {
   padding-bottom: 15px;
   background-color: #fbfbfb;
 }
-.cid-qFUGQqHvfC {
+.cid-qG70mvDqoW {
   padding-top: 15px;
   padding-bottom: 0px;
   background-color: #fbfbfb;
 }
-.cid-qFUGQqHvfC .card {
+.cid-qG70mvDqoW .card {
   padding: 1rem 1rem 3rem 1rem;
 }
-.cid-qFUGQqHvfC .card-img {
+.cid-qG70mvDqoW .card-img {
   padding: 0 0 2rem;
 }
-.cid-qFUGQqHvfC .mbr-section-btn {
+.cid-qG70mvDqoW .mbr-section-btn {
   margin-left: 0;
 }
 @media (min-width: 992px) {
-  .cid-qFUGQqHvfC .my-col {
+  .cid-qG70mvDqoW .my-col {
     flex: 0 0 20%;
     max-width: 20%;
     padding: 15px;
   }
 }
 @media (max-width: 767px) {
-  .cid-qFUGQqHvfC .card-title {
+  .cid-qG70mvDqoW .card-title {
     text-align: center;
   }
-  .cid-qFUGQqHvfC p.mbr-text {
+  .cid-qG70mvDqoW p.mbr-text {
     text-align: center;
   }
 }
@@ -2929,6 +2932,35 @@ body {
     text-align: center;
   }
   .cid-qFUDPuAFGc p.mbr-text {
+    text-align: center;
+  }
+}
+.cid-qG7aCtQTQM {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #fbfbfb;
+}
+.cid-qG7aCtQTQM .card {
+  padding: 1rem 1rem 3rem 1rem;
+}
+.cid-qG7aCtQTQM .card-img {
+  padding: 0 0 2rem;
+}
+.cid-qG7aCtQTQM .mbr-section-btn {
+  margin-left: 0;
+}
+@media (min-width: 992px) {
+  .cid-qG7aCtQTQM .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qG7aCtQTQM .card-title {
+    text-align: center;
+  }
+  .cid-qG7aCtQTQM p.mbr-text {
     text-align: center;
   }
 }
