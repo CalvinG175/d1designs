@@ -1979,7 +1979,7 @@ body {
   background-color: #fbfbfb;
 }
 .cid-qF4sMHFOLJ .mbr-section-subtitle {
-  font-size: 1.3rem;
+  font-size: 1.3rem !important;
   color: #767676;
 }
 .cid-qF4sMHFOLJ .container-table {
