@@ -1200,6 +1200,13 @@ body {
 .cid-qFOL3BsxGD .days-subtitle {
   font-size: 1.25rem;
 }
+.cid-qFOL3BsxGD .mbr-text,
+.cid-qFOL3BsxGD .mbr-section-btn {
+  text-align: left;
+}
+.cid-qFOL3BsxGD .card-title {
+  text-align: left;
+}
 .cid-qFf2is57qY {
   padding-top: 45px;
   padding-bottom: 0px;
