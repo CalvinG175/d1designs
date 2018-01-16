@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 91,
+    "uniqCompNum": 92,
     "versionPublish": "4.5.4",
     "siteUrl": "http://d1designs.com",
     "sitemapSwitcherAuto": "on",
@@ -48,7 +48,8 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "path": "@PROJECT_PATH@",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
