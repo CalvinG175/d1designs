@@ -1895,42 +1895,43 @@ body {
 .cid-qELfV6H6Qj H5 {
   color: #78c3ec;
 }
-.cid-qELFX3K9fe {
+.cid-qHuH9SJieL {
   padding-top: 60px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/pexels-photo-303383-1920x1281.jpg");
 }
-.cid-qELFX3K9fe .plan-body .btn-bgr {
+.cid-qHuH9SJieL .plan-body .btn-bgr {
   z-index: 0;
 }
-.cid-qELFX3K9fe .plan-price {
+.cid-qHuH9SJieL .plan-price {
   color: #78c3ec;
 }
-.cid-qELFX3K9fe .media-container-row {
+.cid-qHuH9SJieL .media-container-row {
   align-items: flex-start;
 }
-.cid-qELFX3K9fe .list-group-item {
+.cid-qHuH9SJieL .list-group-item {
+  font-size: 1.04rem;
   padding: .75rem 2rem;
 }
-.cid-qELFX3K9fe .plan {
+.cid-qHuH9SJieL .plan {
   background: none;
   position: relative;
   min-width: 41%;
   padding-right: 0;
   padding-left: 0;
 }
-.cid-qELFX3K9fe .plan .mbr-overlay {
+.cid-qHuH9SJieL .plan .mbr-overlay {
   background: #fbfbfb;
   opacity: 1;
 }
-.cid-qELFX3K9fe .plan .list-group-item {
+.cid-qHuH9SJieL .plan .list-group-item {
   position: relative;
   -webkit-justify-content: center;
   justify-content: center;
   border: 0;
   background: none;
 }
-.cid-qELFX3K9fe .plan .list-group-item::after {
+.cid-qHuH9SJieL .plan .list-group-item::after {
   position: absolute;
   bottom: 0;
   left: 5%;
@@ -1939,43 +1940,43 @@ body {
   content: "";
   background-color: #eaeaea;
 }
-.cid-qELFX3K9fe .plan .list-group-item:last-child::after {
+.cid-qHuH9SJieL .plan .list-group-item:last-child::after {
   display: none;
 }
-.cid-qELFX3K9fe .plan .mbr-section-btn a {
+.cid-qHuH9SJieL .plan .mbr-section-btn a {
   margin-bottom: 0;
 }
-.cid-qELFX3K9fe .plan .plan-body {
+.cid-qHuH9SJieL .plan .plan-body {
   position: relative;
   padding-bottom: 3rem;
 }
-.cid-qELFX3K9fe .plan-header {
+.cid-qHuH9SJieL .plan-header {
   padding-bottom: 2rem;
   position: relative;
 }
 @media (max-width: 550px) {
-  .cid-qELFX3K9fe .price-figure {
+  .cid-qHuH9SJieL .price-figure {
     font-size: 4.25rem;
   }
 }
-.cid-qELFX3K9fe .block-title B {
+.cid-qHuH9SJieL .block-title B {
   color: #ffffff;
 }
-.cid-qELFX3K9fe .block-title {
+.cid-qHuH9SJieL .block-title {
   color: #ffffff;
   padding-bottom: 30px;
 }
-.cid-qELFX3K9fe .block-text {
+.cid-qHuH9SJieL .block-text {
   color: #ffffff;
   text-align: center;
   font-size: 1.3rem;
 }
 @media (max-width: 960px) {
-  .cid-qELFX3K9fe .block-text {
+  .cid-qHuH9SJieL .block-text {
     padding-bottom: 20px;
   }
 }
-.cid-qELFX3K9fe UL {
+.cid-qHuH9SJieL UL {
   text-align: left;
 }
 .cid-qF4sMHFOLJ {
