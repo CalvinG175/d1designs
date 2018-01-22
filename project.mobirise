@@ -1364,7 +1364,7 @@
                 "opacity": "@cardOpacity"
               },
               "position": "relative",
-              "min-width": "450px",
+              "min-width": "41%",
               "padding-right": "0",
               "padding-left": "0",
               ".list-group-item": {
@@ -1420,9 +1420,6 @@
             "@media (max-width: 960px)": {
               ".block-text": {
                 "padding-bottom": "20px"
-              },
-              ".plan": {
-                "min-width": "75px"
               }
             },
             "UL": {
