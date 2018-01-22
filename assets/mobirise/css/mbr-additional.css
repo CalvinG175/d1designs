@@ -1910,12 +1910,12 @@ body {
   align-items: flex-start;
 }
 .cid-qELFX3K9fe .list-group-item {
-  padding: .75rem 3.25rem;
+  padding: .75rem 2rem;
 }
 .cid-qELFX3K9fe .plan {
   background: none;
   position: relative;
-  min-width: 500px;
+  min-width: 450px;
   padding-right: 0;
   padding-left: 0;
 }
@@ -1933,8 +1933,8 @@ body {
 .cid-qELFX3K9fe .plan .list-group-item::after {
   position: absolute;
   bottom: 0;
-  left: 10%;
-  width: 80%;
+  left: 5%;
+  width: 90%;
   height: 2px;
   content: "";
   background-color: #eaeaea;
@@ -1970,12 +1970,12 @@ body {
   text-align: center;
   font-size: 1.3rem;
 }
-@media (min-width: 960px) {
+@media (max-width: 960px) {
   .cid-qELFX3K9fe .block-text {
     padding-bottom: 20px;
   }
   .cid-qELFX3K9fe .plan {
-    max-width: 75px;
+    min-width: 75px;
   }
 }
 .cid-qELFX3K9fe UL {
