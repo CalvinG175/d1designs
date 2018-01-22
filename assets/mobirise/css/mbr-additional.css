@@ -1915,7 +1915,7 @@ body {
 .cid-qELFX3K9fe .plan {
   background: none;
   position: relative;
-  max-width: 500px;
+  min-width: 500px;
   padding-right: 0;
   padding-left: 0;
 }
@@ -1972,9 +1972,10 @@ body {
 }
 @media (min-width: 960px) {
   .cid-qELFX3K9fe .block-text {
-    padding-right: 70px;
-    padding-left: 70px;
     padding-bottom: 20px;
+  }
+  .cid-qELFX3K9fe .plan {
+    max-width: 75px;
   }
 }
 .cid-qELFX3K9fe UL {
