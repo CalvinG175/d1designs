@@ -1482,8 +1482,7 @@ body {
   border: none;
 }
 .cid-qEEznZDY8f .btn {
-  position: relative;
-  left: 25px;
+  margin-left: 40px;
   padding: 0.4rem 1.5rem;
   display: inline-flex;
   align-items: center;
