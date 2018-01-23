@@ -878,7 +878,6 @@
               "border": "none"
             },
             ".btn": {
-              "margin-right": "-40px",
               "padding": "0.4rem 1.5rem",
               ".mbr-iconfont": {
                 "font-size": "1.2em"
@@ -1259,6 +1258,11 @@
             ".btn:hover": {
               "background-color": "#636464",
               "border-color": "#636464"
+            },
+            "@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape)": {
+              ".btn": {
+                "margin-right": "-40px"
+              }
             }
           },
           "_name": "menu3",
