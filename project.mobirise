@@ -878,7 +878,7 @@
               "border": "none"
             },
             ".btn": {
-              "margin-left": "40px",
+              "margin-right": "-40px",
               "padding": "0.4rem 1.5rem",
               ".mbr-iconfont": {
                 "font-size": "1.2em"
