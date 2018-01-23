@@ -1379,7 +1379,7 @@ body {
     margin: 0 1.3rem !important;
   }
 }
-@media (max-width: 1024px) {
+@media (max-width: 991px) {
   .cid-qEEznZDY8f .navbar-nav .nav-item a {
     margin: 0!important;
   }
@@ -1433,7 +1433,7 @@ body {
   vertical-align: middle;
   padding-right: 1rem;
 }
-@media (min-width: 1024px) {
+@media (min-width: 992px) {
   .cid-qEEznZDY8f .navbar .menu-content-top {
     display: block;
   }
@@ -1730,7 +1730,7 @@ body {
 .cid-qEEznZDY8f .collapsed .dropdown-item:before {
   display: none;
 }
-@media (max-width: 991px) {
+@media (max-width: 1024px) {
   .cid-qEEznZDY8f .dropdown-item {
     padding: 0.235em 0!important;
     margin: 0!important;
