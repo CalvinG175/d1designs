@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "D1 Designs",
-    "currentPage": "projects.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "agencym4",
       "title": "AgencyM4",
@@ -1624,7 +1624,7 @@
                 "opacity": "@cardOpacity"
               },
               "position": "relative",
-              "min-width": "32vw",
+              "min-width": "41%",
               "padding-right": "0",
               "padding-left": "0",
               ".list-group-item": {
