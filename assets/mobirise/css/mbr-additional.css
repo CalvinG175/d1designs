@@ -916,8 +916,8 @@ body {
   color: #ffffff;
 }
 .cid-qF4zp4Wx7I .btn-white:hover {
-  background-color: #78C3EC;
-  border-color: #78C3EC;
+  background-color: #78C3EC !important;
+  border-color: #78C3EC !important;
 }
 .cid-qF4KTMzfgT {
   padding-top: 60px;

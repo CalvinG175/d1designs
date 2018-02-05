@@ -128,8 +128,8 @@
               "color": "#ffffff"
             },
             ".btn-white:hover": {
-              "background-color": "#78C3EC",
-              "border-color": "#78C3EC"
+              "background-color": "#78C3EC !important",
+              "border-color": "#78C3EC !important"
             }
           },
           "_name": "header2",
