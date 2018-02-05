@@ -2142,7 +2142,6 @@ body {
   color: #ffffff;
   text-align: center;
   font-size: 1.3rem;
-  padding-top: 20px;
 }
 @media (max-width: 960px) {
   .cid-qHwdXWM9Q2 .block-text {
@@ -2156,6 +2155,13 @@ body {
 }
 .cid-qHwdXWM9Q2 UL {
   text-align: left;
+}
+.cid-qHwdXWM9Q2 .block-text1 {
+  text-align: center;
+  font-size: 1.3rem;
+  color: #ffffff;
+  padding-top: 20px;
+  margin-bottom: -30px !important;
 }
 .cid-qF4sMHFOLJ {
   padding-top: 75px;
