@@ -2148,7 +2148,12 @@ body {
     padding-bottom: 20px;
   }
 }
-@media (min-width: 760px) {
+@media (min-width: 990px) and (max-width: 1200px) {
+  .cid-qHwdXWM9Q2 .plan {
+    min-height: 1135px;
+  }
+}
+@media (min-width: 1201px) {
   .cid-qHwdXWM9Q2 .plan {
     min-height: 1035px;
   }
