@@ -56,7 +56,7 @@
       "settings": {
         "main": true,
         "title": "D1 Designs",
-        "meta_descr": "",
+        "meta_descr": "The one-stop design agency established to develop\nultra-modern and professional products for your business.",
         "header_custom": "<style>\n\t#gallery1-2p .mbr-gallery-row {\n\t\tdisplay:none;\n\t}\n       #gallery1-2u .mbr-gallery-row {\n\t\tdisplay:none;\n\t}\n</style>",
         "footer_custom": "",
         "html_before": ""
