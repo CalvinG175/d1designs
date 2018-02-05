@@ -55,7 +55,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "D1 Designs",
+        "title": "D1 Design",
         "meta_descr": "The one-stop design agency established to develop modern and professional websites & graphics for small businesses.",
         "header_custom": "<style>\n\t#gallery1-2p .mbr-gallery-row {\n\t\tdisplay:none;\n\t}\n       #gallery1-2u .mbr-gallery-row {\n\t\tdisplay:none;\n\t}\n</style>",
         "footer_custom": "",
