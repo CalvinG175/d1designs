@@ -1510,8 +1510,8 @@
               "color": "@itemsHoverColor"
             },
             ".btn:hover": {
-              "background-color": "#636464",
-              "border-color": "#636464"
+              "background-color": "#636464 !important",
+              "border-color": "#636464 !important "
             },
             "@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape)": {
               ".btn": {
